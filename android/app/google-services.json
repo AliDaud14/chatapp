@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "178264995634",
+    "project_id": "ecom-338caa",
+    "storage_bucket": "ecom-338caa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178264995634:android:6251905f35750afe40092b",
+        "android_client_info": {
+          "package_name": "com.example.chat_application_iub_cse464"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADCIrYk1k9xqNixAEwqotDLLOUHOp0aXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178264995634:android:2a79d0c4a774242b40092b",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADCIrYk1k9xqNixAEwqotDLLOUHOp0aXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178264995634:android:ae8551aeddbcb13d40092b",
+        "android_client_info": {
+          "package_name": "com.example.ecom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADCIrYk1k9xqNixAEwqotDLLOUHOp0aXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
